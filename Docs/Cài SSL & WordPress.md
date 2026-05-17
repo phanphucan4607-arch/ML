@@ -1,1 +1,41 @@
++ Kiểm tra web trước khi cài đặt SSL 
++ tiến hành cài
++ Check SSL
++ phản hồi Teckit
+```
+Chào Quý Khách Hàng,
 
+- Dạ em đã hoàn tất cài đặt SSL và Wordpress cho website của mình rồi ạ.
+- Các bước cài SSL trên cPanel: Vào SSL/TLS Certificates → Tích chọn domain cần cài → Continue → Chọn Let’s Encrypt Certificate → Tích chọn “I acknowledge that certificates are managed by the Let’s Encrypt Terms of           Service” → Continue.
+- Hướng dẫn cài Wordpress: `https://vietnix.vn/cai-wordpress-tren-cpanel/`
+
+Trân trọng.
+
+---
+**CÔNG TY CỔ PHẦN GIẢI PHÁP VÀ CÔNG NGHỆ VIETNIX**
+  - **Địa chỉ:** 265 Hồng Lạc, Phường Bảy Hiền, TP. Hồ Chí Minh
+  - **Phone:** 1800 1093
+  - **Email:** [support@vietnix.vn](mailto:support@vietnix.vn)
+  - **Kênh thông tin, khuyến mãi:** Quý khách vui lòng theo dõi Vietnix để nhanh chóng nhận được các thông báo mới nhất
+```
+
++ kiểm tra trang Wp trang chủ (chụp lại bỏ vào task) 
++ login vào kiểm tra (chụp lại bỏ vào task)
++ gửi mail thông tin quảng trị cho khách (chụp lại bỏ vào task)
+```
+Thông tin đăng nhập trang quản trị Wordpress Admin
+ Chào Quý Khách Hàng, Dạ em gửi anh/ chị thông tin truy cập Wordpress Admin của  :
+
+    * Đường dẫn truy cập: 
+    * Username: admin
+    * Password: 
+
+Trân trọng!
+
+---
+CÔNG TY CỔ PHẦN GIẢI PHÁP VÀ CÔNG NGHỆ VIETNIX
+  - Địa chỉ: 265 Hồng Lạc, Phường Bảy Hiền, TP. Hồ Chí Minh
+  - Phone: 1800 1093
+  - Email: support@vietnix.vn
+   - Kênh thông tin, khuyến mãi: Quý khách vui lòng theo dõi Vietnix để nhanh chóng nhận được các thông báo mới nhất
+```
