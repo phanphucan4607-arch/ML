@@ -55,3 +55,8 @@ Trân trọng!
 > **- Kênh thông tin, khuyến mãi:** Quý khách vui lòng theo dõi Vietnix để nhanh chóng nhận được các thông báo mới nhất
 
 ```
+
+
+<img width="969" height="311" alt="image" src="https://github.com/user-attachments/assets/9efe14e7-0a68-4081-ab37-216ab029a685" />
+- khi ma cai SSL free thi check cai nay 
+
