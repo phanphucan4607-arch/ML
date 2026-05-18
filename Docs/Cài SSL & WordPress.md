@@ -39,3 +39,19 @@ CÔNG TY CỔ PHẦN GIẢI PHÁP VÀ CÔNG NGHỆ VIETNIX
   - Email: support@vietnix.vn
    - Kênh thông tin, khuyến mãi: Quý khách vui lòng theo dõi Vietnix để nhanh chóng nhận được các thông báo mới nhất
 ```
+
+## nhan thong tin 
+```
+
+Chào Quý Khách,
+
+- Phòng kỹ thuật đã nhận được thông tin từ Quý khách và sẽ tiến hành hỗ trợ/kiểm tra ngay. Xin vui lòng chờ đợi thông tin phản hồi từ phía kỹ thuật.
+
+Trân trọng!
+>  **CÔNG TY CỔ PHẦN GIẢI PHÁP VÀ CÔNG NGHỆ VIETNIX**
+> **- Địa chỉ:** 265 Hồng Lạc, Phường Bảy Hiền, Hồ Chí Minh, Việt Nam
+> **- Phone:** 1800 1093
+> **- Email:** support@vietnix.vn
+> **- Kênh thông tin, khuyến mãi:** Quý khách vui lòng theo dõi Vietnix để nhanh chóng nhận được các thông báo mới nhất
+
+```
